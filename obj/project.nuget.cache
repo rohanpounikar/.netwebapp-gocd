@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iIfGwDW0yxm2sy4Ad1cn/CEOtnShp8eCZ4kgxXMPwdLUZ63Sxy5SYtmk5Er6eoWtbqerRvLj6na1htJuVUp1Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rohan\\Desktop\\gocd-.net\\testgocd\\testgocd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
