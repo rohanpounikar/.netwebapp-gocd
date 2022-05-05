@@ -5,6 +5,7 @@ pipelines:
     label_template: ${COUNT}
     lock_behavior: none
     display_order: -1
+    environment: Pipelines
     materials:
       git-ae7ae71:
         git: https://github.com/rohanpounikar/.netwebapp-gocd.git
